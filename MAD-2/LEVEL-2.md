@@ -183,4 +183,4 @@
 
 After your viva, please share the questions asked by your examiner so this question bank can be kept up to date.
 
-[Submit your viva questions through this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScOeEe-1RRju08RNZybXVXceB1SMb1nBqtstKJmk-w6vmsIEQ/formResponse)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScOeEe-1RRju08RNZybXVXceB1SMb1nBqtstKJmk-w6vmsIEQ/formResponse" target="_blank" rel="noopener noreferrer">Submit your viva questions through this Google Form</a>
